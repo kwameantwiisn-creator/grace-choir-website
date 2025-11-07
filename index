@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Grace Choir | House of Grace Assemblies of God</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f7f7f7;
+      color: #333;
+    }
+    header {
+      background: linear-gradient(90deg, #8b0000, #b22222);
+      color: white;
+      text-align: center;
+      padding: 2rem 1rem;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    header p {
+      margin: 0.5rem 0 0;
+      font-size: 1.1rem;
+      letter-spacing: 1px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+    .about {
+      background: white;
+      padding: 2rem;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+    .about img {
+      width: 100%;
+      border-radius: 10px;
+      margin: 1rem 0;
+    }
+    h2 {
+      color: #8b0000;
+    }
+    .event {
+      background: #fff7f7;
+      border-left: 5px solid #b22222;
+      padding: 1.5rem;
+      border-radius: 8px;
+      margin-top: 2rem;
+    }
+    footer {
+      background: #8b0000;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 3rem;
+    }
+    footer a {
+      color: #ffd700;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Grace Choir</h1>
+    <p>House of Grace Assemblies of God</p>
+  </header>
+
+  <div class="container">
+    <section class="about">
+      <h2>About Us</h2>
+      <p>
+        Welcome to <strong>Grace Choir</strong>, the vibrant worship team of
+        <strong>House of Grace Assemblies of God</strong>. Our mission is to
+        inspire hearts, uplift spirits, and lead God’s people into His presence
+        through spirit-filled praise and worship.
+      </p>
+
+      <img src="https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=900&q=60" alt="Grace Choir singing" />
+
+      <p>
+        We are a family of believers passionate about music that glorifies God —
+        from powerful contemporary gospel to heartfelt local worship songs.
+        Every note, every lyric, and every harmony is dedicated to honoring
+        Jesus Christ and spreading His love through song.
+      </p>
+
+      <section class="event">
+        <h2>🎶 Upcoming Event: Praise & Worship Day</h2>
+        <p>
+          Join us for a powerful <strong>Praise and Worship Day</strong> on
+          <strong>Sunday, 23rd November 2025</strong>, from
+          <strong>10:30 AM to 1:30 PM</strong> at the
+          <strong>House of Grace Assemblies of God</strong>.
+        </p>
+        <p>
+          Expect a wonderful atmosphere filled with joyful singing, deep worship,
+          and a mix of both contemporary and local gospel songs.
+        </p>
+        <img src="https://images.unsplash.com/photo-1533106418989-88406c7cc8e1?auto=format&fit=crop&w=900&q=60" alt="Worship event" />
+        <p>
+          Come and experience the power of God’s presence through music!
+        </p>
+      </section>
+
+      <p style="margin-top: 2rem;">
+        Stay connected with us on Facebook for photos, updates, and more:
+        <a href="https://www.facebook.com/HouseofGraceAoG/" target="_blank">House of Grace AoG Facebook Page</a>
+      </p>
+    </section>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 Grace Choir | House of Grace Assemblies of God</p>
+  </footer>
+</body>
+</html>
